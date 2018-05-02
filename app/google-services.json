@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "906824799774",
+    "firebase_url": "https://abusua-tenten-e110c.firebaseio.com",
+    "project_id": "abusua-tenten-e110c",
+    "storage_bucket": "abusua-tenten-e110c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906824799774:android:2c2e703448912956",
+        "android_client_info": {
+          "package_name": "com.turbytech.abusuatenten"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "906824799774-qa6nekbqssbs8vfrg5bfrt8qgsf6r2e1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.turbytech.abusuatenten",
+            "certificate_hash": "ca7cff8a6c3d555dc52b05bb50ed950ec6a5d76d"
+          }
+        },
+        {
+          "client_id": "906824799774-sfpe209ql6f8jgh8d070ppr3phfv1aj0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJVwyAjqgKxR5m3oNX5Lbh6bmkxPd9hYw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "906824799774-sfpe209ql6f8jgh8d070ppr3phfv1aj0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
